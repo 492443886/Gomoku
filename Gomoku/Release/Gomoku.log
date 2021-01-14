@@ -1,0 +1,10 @@
+﻿  GameBoardView.cpp
+  GameMoveView.cpp
+  Gomoku.cpp
+  GomokuApp.cpp
+  PlayersView.cpp
+  ScoreView.cpp
+  Generating code
+  All 1361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Gomoku.vcxproj -> C:\Users\ChunHui\Desktop\all fanshawe\Gomoku -3\Gomoku -3\Release\Gomoku.exe

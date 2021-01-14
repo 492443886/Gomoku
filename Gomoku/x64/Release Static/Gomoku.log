@@ -1,0 +1,7 @@
+﻿  GameBoardView.cpp
+  GameMoveView.cpp
+  Gomoku.cpp
+  GomokuApp.cpp
+  PlayersView.cpp
+  ScoreView.cpp
+LINK : fatal error LNK1104: cannot open file 'applib-mt.lib'

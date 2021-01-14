@@ -1,0 +1,8 @@
+﻿  App.cpp
+  ConsoleAdapter.cpp
+  ConsoleApp.cpp
+  Event.cpp
+  MVCController.cpp
+  WinAPIWrapper.cpp
+  XError.cpp
+  ConsoleLibrary.vcxproj -> C:\Users\ChunHui\Desktop\all fanshawe\Gomoku -3\Gomoku -3\applib-dist\lib-x86\applib-mt.lib
